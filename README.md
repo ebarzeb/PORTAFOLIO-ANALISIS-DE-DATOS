@@ -12,7 +12,12 @@ Para más detalles sobre mi trayectoria profesional, no dudes en revisar mi CV.
 
 # Análisis de las Exportaciones de Chile
 
-**Descripción:** El objetivo principal de este proyecto es analizar un conjunto de datos que contiene 317,199 registros sobre las exportaciones de Chile en 2023. Este dataset incluye información detallada sobre los productos exportados, tipos de productos, peso de cada exportación, puerto de embarque, país de destino y el valor de cada exportación, desglosado por mes. Usando diversas librerías de Python, se busca descubrir información interesante, generar insights y visualizarlos de manera efectiva.
+**Descripción:** 
+El objetivo principal de este proyecto es analizar un conjunto de datos que contiene 317,199 registros sobre las exportaciones de Chile en 2023. Este dataset incluye información detallada sobre los productos exportados, tipos de productos, peso de cada exportación, puerto de embarque, país de destino y el valor de cada exportación, desglosado por mes. Usando diversas librerías de Python, se busca descubrir información interesante, generar insights y visualizarlos de manera efectiva.
+
+**Contexto:**
+
+Este proyecto combina mi experiencia en análisis de datos y mi formación profesional como Ingeniero Comercial, donde me he desarrollado generando estrategias comerciales y elaborando informes para la toma de decisiones. Mi experiencia como Ejecutivo de Ventas, gestionando negociaciones y productos del área de la construcción e industria, me ha dado una visión práctica de la importancia de identificar patrones en los mercados y de cómo funcionan los flujos comerciales, como las importaciones y movimientos aduaneros. Analizar las exportaciones de Chile en 2023, además de permitirme aplicar mis habilidades técnicas en Python y herramientas de análisis con bases de datos de gran tamaño, me ayuda a comprender dinámicas comerciales que afectan tanto a nivel local como internacional.
 
 **Código:** [Ver Proyecto: Análisis de Exportaciones de Chile](https://github.com/ebarzeb/PORTAFOLIO-ANALISIS-DE-DATOS/blob/main/proyecto%20exportaciones%20chile%202023.ipynb)
 
