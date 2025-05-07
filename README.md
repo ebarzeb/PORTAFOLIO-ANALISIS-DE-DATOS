@@ -28,8 +28,8 @@ Este proyecto combina mi experiencia en análisis de datos y mi formación profe
 # Análisis de Fuga de Clientes – Churn Analisys
 
 **Descripción:**
-- •	Analizar un dataset de más de 7.000 registros extraídos de Kaggle, aplicando un proceso ETL en PostgreSQL para limpieza, normalización y preparación de datos para el modelado en Power BI.
-- •	Diseñar dashboards interactivos en Power BI utilizando Power Query y DAX para explorar métricas clave de abandono.
-- •	Desarrollar un modelo predictivo de Random Forest en Python, evaluarlo con métricas de precisión, recall y AUC, y visualizar sus resultados mediante matplotlib.
-- •	Generar un informe consolidado que combine las visualizaciones de Power BI y las predicciones del modelo, facilitando la toma de decisiones estratégicas.
+- Analizar un dataset de más de 7.000 registros extraídos de Kaggle, aplicando un proceso ETL en PostgreSQL para limpieza, normalización y preparación de datos para el modelado en Power BI.
+- Diseñar dashboards interactivos en Power BI utilizando Power Query y DAX para explorar métricas clave de abandono.
+- Desarrollar un modelo predictivo de Random Forest en Python, evaluarlo con métricas de precisión, recall y AUC, y visualizar sus resultados mediante matplotlib.
+- Generar un informe consolidado que combine las visualizaciones de Power BI y las predicciones del modelo, facilitando la toma de decisiones estratégicas.
 
