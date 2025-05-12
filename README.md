@@ -10,6 +10,23 @@ Aquí encontrarás proyectos que destacan mis habilidades analíticas y técnica
 
 Para más detalles sobre mi trayectoria profesional, no dudes en revisar mi CV.
 
+# Análisis de Fuga de Clientes – Churn Analisys
+
+**Descripción:**
+- Analizar un dataset de más de 7.000 registros extraídos de Kaggle, aplicando un proceso ETL en PostgreSQL para limpieza, normalización y preparación de datos para el modelado en Power BI.
+- Diseñar dashboards interactivos en Power BI utilizando Power Query y DAX para explorar métricas clave de abandono.
+- Desarrollar un modelo predictivo de Random Forest en Python, evaluarlo con métricas de precisión, recall y AUC, y visualizar sus resultados mediante matplotlib.
+- Generar un informe consolidado que combine las visualizaciones de Power BI y las predicciones del modelo, facilitando la toma de decisiones estratégicas.
+
+**Original dataset:** [Data de Clientes](https://github.com/ebarzeb/PORTAFOLIO-ANALISIS-DE-DATOS/blob/main/Proyecto%20Analisis%20Churn/Customer_Data.csv)
+
+**Dashboard:** [Dashboard en Power BI](https://github.com/ebarzeb/PORTAFOLIO-ANALISIS-DE-DATOS/blob/main/Proyecto%20Analisis%20Churn/Churn%20Analisis.pbix) - [Dashboard formato PDF](https://github.com/ebarzeb/PORTAFOLIO-ANALISIS-DE-DATOS/blob/main/Proyecto%20Analisis%20Churn/Churn%20Analisis.pdf) 
+
+**Modelado predictivo en Python:** [Codigo Jupiter Notebook](https://github.com/ebarzeb/PORTAFOLIO-ANALISIS-DE-DATOS/blob/main/Proyecto%20Analisis%20Churn/modelo_predictivo.ipynb)
+
+**Habilidades:** PostgreSQL, Power BI (Power Query, DAX), Python, Random Forest.
+
+
 # Análisis de las Exportaciones de Chile
 
 **Descripción:** 
@@ -25,11 +42,4 @@ Este proyecto combina mi experiencia en análisis de datos y mi formación profe
 
 **Tecnología:** Python, Pandas, NumPy, Seaborn, Matplotlib.
 
-# Análisis de Fuga de Clientes – Churn Analisys
-
-**Descripción:**
-- Analizar un dataset de más de 7.000 registros extraídos de Kaggle, aplicando un proceso ETL en PostgreSQL para limpieza, normalización y preparación de datos para el modelado en Power BI.
-- Diseñar dashboards interactivos en Power BI utilizando Power Query y DAX para explorar métricas clave de abandono.
-- Desarrollar un modelo predictivo de Random Forest en Python, evaluarlo con métricas de precisión, recall y AUC, y visualizar sus resultados mediante matplotlib.
-- Generar un informe consolidado que combine las visualizaciones de Power BI y las predicciones del modelo, facilitando la toma de decisiones estratégicas.
 
