@@ -6,6 +6,8 @@ Disfruto transformar datos en información valiosa para optimizar procesos de co
 
 Tengo un gran interés en el análisis de datos y la gestión estratégica, respaldado por mi experiencia en roles comerciales y administrativos.
 
+Mi objetivo principal es integrar mis habilidades en análisis de datos con mi formación como Ingeniero Comercial donde me he desarrollado generando estrategias comerciales y elaborando informes para la toma de decisiones. 
+
 Aquí encontrarás proyectos que destacan mis habilidades analíticas y técnicas utilizando herramientas como Python, SQL, Power BI, Tableau y más.
 
 Para más detalles sobre mi trayectoria profesional, no dudes en revisar mi CV.
@@ -24,7 +26,9 @@ Para más detalles sobre mi trayectoria profesional, no dudes en revisar mi CV.
 
 **Modelado predictivo en Python:** [Codigo Jupiter Notebook](https://github.com/ebarzeb/PORTAFOLIO-ANALISIS-DE-DATOS/blob/main/Proyecto%20Analisis%20Churn/modelo_predictivo.ipynb)
 
-**Habilidades:** PostgreSQL, Power BI (Power Query, DAX), Python, Random Forest.
+**Habilidades:** Análisis de datos, Procesos ETL, Power Query, DAX, Modelado predictivo
+
+**Tecnología:** PostgreSQL, Power BI, Python, Random Forest.
 
 
 # Análisis de las Exportaciones de Chile
@@ -34,9 +38,9 @@ El objetivo principal de este proyecto es analizar un conjunto de datos que cont
 
 **Contexto:**
 
-Este proyecto combina mi experiencia en análisis de datos y mi formación profesional como Ingeniero Comercial, donde me he desarrollado generando estrategias comerciales y elaborando informes para la toma de decisiones. Mi experiencia como Ejecutivo de Ventas, gestionando negociaciones y productos del área de la construcción e industria, me ha dado una visión práctica de la importancia de identificar patrones en los mercados y de cómo funcionan los flujos comerciales, como las importaciones y movimientos aduaneros. Analizar las exportaciones de Chile en 2023, además de permitirme aplicar mis habilidades técnicas en Python y herramientas de análisis con bases de datos de gran tamaño, me ayuda a comprender dinámicas comerciales que afectan tanto a nivel local como internacional.
+Mi experiencia gestionando negociaciones y productos del área de la construcción e industria, me ha dado una visión práctica de la importancia de identificar patrones en los mercados y de cómo funcionan los flujos comerciales, como las importaciones y movimientos aduaneros. Analizar las exportaciones de Chile en 2023, además de permitirme aplicar mis habilidades técnicas en Python y herramientas de análisis con bases de datos de gran tamaño, me ayuda a comprender dinámicas comerciales que afectan tanto a nivel local como internacional.
 
-**Código:** [Ver Proyecto: Análisis de Exportaciones de Chile](https://github.com/ebarzeb/PORTAFOLIO-ANALISIS-DE-DATOS/blob/main/proyecto%20exportaciones%20chile%202023.ipynb)
+**Código:** [Ver Proyecto: Análisis de Exportaciones de Chile](https://github.com/ebarzeb/PORTAFOLIO-ANALISIS-DE-DATOS/blob/main/PROYECTO%20IMPORTACIONES/proyecto%20exportaciones%20chile%202023.ipynb)
 
 **Habilidades:** Limpieza de datos, análisis de datos, pruebas de hipótesis, visualización de datos, matrices de correlación, generación de insights.
 
